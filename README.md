@@ -1,54 +1,61 @@
-# Hi there 👋 I'm Lulu
+# Hi, I’m Lulu Wilson 👋
 
-- I'm a student at [UVA](https://www.virginia.edu/) studying Computer Science (B.S.) and Mathematics (B.A.) with a Probability and Statistics concentration (GPA: 3.94, Class of 2027).
-- Want a professional summary? Check out my <a href="https://github.com/lulukayw/lulukayw/blob/main/resume%20(2).pdf">resume</a>.
+I’m a Computer Science and Mathematics student at the **University of Virginia** (Class of 2027), with a concentration in Probability & Statistics.  
 
-## Highlighed Projects
-- <a href="https://github.com/lulukayw/wiki-game">Wikipedia Game</a>: a command-line application that computes the shortest link path between two Wikipedia pages.
-- <a href="https://github.com/lulukayw/hoowantssome">HooWantsSome</a>: a group developed Django-based web application to promote sustainable item exchange among UVA students.
-- <a href="https://luluwilson.xyz/">My Portfolio Website!</a> See the codebase for it <a href="https://github.com/lulukayw/website">here</a>.
+📄 **Resume:** [View PDF](https://github.com/lulukayw/lulukayw/blob/main/resume%20(2).pdf)
 
-## Skills
+---
 
-### Programming Languages:
+## 🚀 Featured Projects
 
- <img align="center" src="https://skillicons.dev/icons?i=java,python,c,javascript,html,css&perline=14" />
+**[Wikipedia Game](https://github.com/lulukayw/wiki-game)**  
+Command-line tool that computes the shortest hyperlink path between two Wikipedia pages using graph traversal.
 
-### Frameworks
+**[HooWantsSome](https://github.com/lulukayw/hoowantssome)**  
+Django-based web application built in a team to encourage sustainable item exchange among UVA students.
 
-<img align="center" src="https://skillicons.dev/icons?i=django,gradle&perline=14" />
+**[Personal Portfolio Website](https://luluwilson.xyz/)**  
+My personal site showcasing projects and experience.  
+→ [Codebase](https://github.com/lulukayw/website)
+
+---
+
+## 🛠️ Technical Skills
+
+### Languages
+<img src="https://skillicons.dev/icons?i=java,python,c,javascript,html,css&perline=8" />
+
+### Frameworks & Tools
+<img src="https://skillicons.dev/icons?i=django,gradle&perline=8" />
 
 ### Databases
-
-<img align="center" src="https://skillicons.dev/icons?i=sqlite,postgres&perline=14" />
+<img src="https://skillicons.dev/icons?i=sqlite,postgres&perline=8" />
 
 ### Platforms
+<img src="https://skillicons.dev/icons?i=git,github,cloudflare&perline=8" />
 
-<img align="center" src="https://skillicons.dev/icons?i=git,github,cloudflare&perline=14" />
+---
 
-## Currently Working
-- During the 2026 spring semester I'm working with the <a href="https://www.linkedin.com/company/city-of-charlottesville/posts/?feedView=all">City of Charlottesville</a> as a Software Engineer Intern.
+## 💼 Experience
 
-## Currently Learning
+**Software Engineer Intern — City of Charlottesville**  
+Spring 2026  
 
-- I'm getting into front end development with React through <a href="https://scrimba.com/home">Scrimba courses</a>!
+**Teaching Assistant — UVA Department of Computer Science**  
+Fall 2024 — Present
+- Engineering Foundations I & II  
+- Discrete Mathematics and Theory I  
+- Data Structures and Algorithms II
+---
 
-## Contact me!
+## 📚 Currently Learning
 
-- 📫 Email: rjb7gs@virginia.edu
-- 🤝 LinkedIn: https://www.linkedin.com/in/lulu-wilson/
+- Front-end development with React (via Scrimba)
+- Modern UI patterns and component-based architecture
 
-<!--
-**lulukayw/lulukayw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📫 Get in Touch
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Email:** rjb7gs@virginia.edu  
+- **LinkedIn:** https://www.linkedin.com/in/lulu-wilson/
