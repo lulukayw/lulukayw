@@ -2,7 +2,7 @@
 
 I’m a Computer Science and Mathematics student at the **University of Virginia** (Class of 2027), with a concentration in Probability & Statistics.  
 
-📄 **Resume:** [View PDF](https://github.com/lulukayw/lulukayw/blob/main/resume%20(2).pdf)
+📄 **Resume:** [View PDF](https://github.com/lulukayw/lulukayw/blob/main/resume-july-2026.pdf)
 
 ---
 
